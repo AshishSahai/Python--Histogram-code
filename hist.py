@@ -7,3 +7,7 @@ for name in names:
      count[name] = count[name] + 1
 print(counts)
 
+
+// x= counts.get(key, deafult_value)
+
+
